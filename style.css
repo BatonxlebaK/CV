@@ -23,5 +23,21 @@ body{
 .p2{
     color: white;
 }
-
-
+header{
+    background-color: grey;
+}
+.ul1{
+    color: white;
+}
+main{
+    background-color: darkgray;
+}
+.ul2{
+    color: white;
+    text-decoration: none;
+    
+}
+.hh3{
+    color: white;
+    left: 1%
+}
