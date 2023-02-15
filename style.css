@@ -1,5 +1,5 @@
 /* comment) */
-.hh1{
+.greetings1{
     color: white;
     justify-content: center;
     display: flex;
@@ -7,45 +7,32 @@
 }
 body{
     background-color: darkgray;
-}
-.hh2{
     color: white;
+}
+.greetings2{
     display: flex;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
 }
 
-.p1{
-    color: white;
+.more_about_me{
     text-align: center;
 }
 
-.p2{
-    color: white;
-}
 header{
     background-color: grey;
 }
-.ul1{
-    color: white;
-}
+
 main{
     background-color: darkgray;
 }
-.ul2{
-    color: white;
-    text-decoration: none;
-    
-}
-.hh3{
-    color: white;
-    left: 1%
-}
-.l1{
+
+
+.my_social_media1{
     text-decoration: none;
     text-transform: uppercase;
 }
-.mg1{
+.my_github{
     background-color: black;
     color: red;
     justify-content: center;
@@ -53,10 +40,7 @@ main{
 }
 footer{
     background-color: black;
-    color: white;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
 }
-.d1{
-    background-color: darkgray;
-}
+
