@@ -41,3 +41,22 @@ main{
     color: white;
     left: 1%
 }
+.l1{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.mg1{
+    background-color: black;
+    color: red;
+    justify-content: center;
+    display: flex;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+.d1{
+    background-color: darkgray;
+}
